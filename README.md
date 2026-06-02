@@ -19,3 +19,7 @@ For step‑by‑step instructions, troubleshooting, and tips, check out my blog:
 - PowerShell run as Administrator
 - USB cable that supports data transfer
 - New SD card preferably 32GB ( Believe me when I say new one is needed, you don't want to deal with the problems of writing the OS on a used SD card )
+
+## 🙏 Special thanks
+
+Huge shoutout to [@Jayofelony](https://github.com/Jayofelony) for his excellent Pwnagotchi OS image — this wouldn't be possible without his work.
