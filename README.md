@@ -22,4 +22,4 @@ For step‑by‑step instructions, troubleshooting, and tips, check out my blog:
 
 ## 🏆 Special thanks
 
-Huge shoutout to [@Jayofelony](https://github.com/Jayofelony) for his excellent Pwnagotchi OS image — this wouldn't be possible without his work.
+Huge shoutout to [@Jayofelony](https://github.com/Jayofelony) for his excellent Pwnagotchi OS image.
