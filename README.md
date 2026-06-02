@@ -13,7 +13,7 @@ Everything you need to get your Pwnagotchi up and running — OS image, drivers,
 For step‑by‑step instructions, troubleshooting, and tips, check out my blog:  
 **https://edwardstark.website/setup-your-pwnagotchi/**
 
-And you can download the OS files from here I was soo tired for dealing with large file on my uploader host
+And you can download the OS files from here I was soo tired for dealing with large file on my uploader host:
 **https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5.4**
 
 ## ⚠️ Requirements
