@@ -4,7 +4,7 @@ Everything you need to get your Pwnagotchi up and running — OS image, drivers,
 
 ## 📦 What's inside
 
-- Pwnagotchi OS image (ready to flash)
+- Raspberry Imager
 - Required driver files
 - `.ps1` — PowerShell script to share your PC's internet with the Pwnagotchi
 
@@ -12,6 +12,8 @@ Everything you need to get your Pwnagotchi up and running — OS image, drivers,
 
 For step‑by‑step instructions, troubleshooting, and tips, check out my blog:  
 **https://edwardstark.website/setup-your-pwnagotchi/**
+and you can download the OS files from here I was soo tired for dealing with large file on my uploader host
+**https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5.4**
 
 ## ⚠️ Requirements
 
